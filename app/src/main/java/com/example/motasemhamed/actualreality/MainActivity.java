@@ -51,6 +51,8 @@ public class MainActivity extends AppCompatActivity {
     private boolean cameraFront = false;
     FloatingActionButton capture;
 
+    // some changes goes here
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
