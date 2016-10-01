@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/motasemhamed/AndroidStudioProjects/ActualReality/library/build/intermediates/res/merged/debug/layout/amu_webview.xml",
+        "source": "/Users/motasemhamed/AndroidStudioProjects/ActualReality/library/res/layout/amu_webview.xml"
+    },
+    {
+        "merged": "/Users/motasemhamed/AndroidStudioProjects/OldProjects/ActualReality/library/build/intermediates/res/merged/debug/layout/amu_info_window.xml",
+        "source": "/Users/motasemhamed/AndroidStudioProjects/OldProjects/ActualReality/library/res/layout/amu_info_window.xml"
+    },
+    {
+        "merged": "/Users/motasemhamed/AndroidStudioProjects/ActualReality/library/build/intermediates/res/merged/debug/layout/amu_info_window.xml",
+        "source": "/Users/motasemhamed/AndroidStudioProjects/ActualReality/library/res/layout/amu_info_window.xml"
+    },
+    {
+        "merged": "/Users/motasemhamed/AndroidStudioProjects/ActualReality/library/build/intermediates/res/merged/debug/layout/amu_text_bubble.xml",
+        "source": "/Users/motasemhamed/AndroidStudioProjects/ActualReality/library/res/layout/amu_text_bubble.xml"
+    },
+    {
+        "merged": "/Users/motasemhamed/AndroidStudioProjects/OldProjects/ActualReality/library/build/intermediates/res/merged/debug/layout/amu_webview.xml",
+        "source": "/Users/motasemhamed/AndroidStudioProjects/OldProjects/ActualReality/library/res/layout/amu_webview.xml"
+    },
+    {
+        "merged": "/Users/motasemhamed/AndroidStudioProjects/OldProjects/ActualReality/library/build/intermediates/res/merged/debug/layout/amu_text_bubble.xml",
+        "source": "/Users/motasemhamed/AndroidStudioProjects/OldProjects/ActualReality/library/res/layout/amu_text_bubble.xml"
+    }
+]

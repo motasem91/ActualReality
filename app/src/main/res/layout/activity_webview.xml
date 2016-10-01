@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+
+<WebView
+    android:layout_width="match_parent"
+    android:id="@+id/webViewData"
+    android:visibility="gone"
+    android:layout_height="match_parent"></WebView>
+
+    <DatePicker
+        android:id="@+id/dpResult"
+        android:gravity="center"
+        android:layout_width="wrap_content"
+        android:visibility="gone"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <com.appyvet.rangebar.RangeBar
+        xmlns:custom="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/rangebar"
+        android:layout_width="match_parent"
+        android:layout_height="82dp"
+        custom:tickStart="5"
+        custom:tickEnd="80"
+        custom:tickInterval="1"
+        custom:tickHeight="0dp"
+        custom:rangeBarColor="#ff0000"
+        custom:connectingLineWeight="1dp"
+        custom:connectingLineColor="#00ff00"
+        custom:pinPadding="5dp"
+        custom:pinRadius="20dp"
+        custom:pinMinFont="13dp"
+        custom:pinMaxFont="17dp"
+        custom:pinColor="#346324"
+        custom:textColor="#ff0000"
+        custom:selectorColor="#ff0000"
+        custom:selectorSize="5dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"/>
+
+    <HorizontalScrollView
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+        <com.example.motasemhamed.actualreality.MyHorizontalLayout
+            android:id="@+id/mygallery"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            />
+    </HorizontalScrollView>
+
+</RelativeLayout>

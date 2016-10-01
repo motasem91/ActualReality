@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/motasemhamed/AndroidStudioProjects/OldProjects/ActualReality/library/src/main/assets"/><source path="/Users/motasemhamed/AndroidStudioProjects/OldProjects/ActualReality/library/build/generated/assets/shaders/release"/></dataSet><dataSet config="release"><source path="/Users/motasemhamed/AndroidStudioProjects/OldProjects/ActualReality/library/src/release/assets"/></dataSet></merger>

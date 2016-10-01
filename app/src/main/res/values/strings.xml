@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ActualReality</string>
+    <string name="action_settings">Settings</string>
+    <string name="kml_url">http://googlemaps.github.io/kml-samples/morekml/Polygons/Polygons.Google_Campus.kml</string>
+
+</resources>
